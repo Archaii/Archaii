@@ -1,6 +1,6 @@
 <div align="left">
 
-# 🚀 Archai
+# Archai
 
 ```text
 Computer Science Student at FEU Tech | Aspiring Data Analyst
