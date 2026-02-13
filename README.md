@@ -3,16 +3,14 @@
 # 🚀 Archai
 
 ```text
-Software Engineering Student at FEU Tech | Aspiring Data Analyst
+Computer Science Student at FEU Tech | Aspiring Data Analyst
 ```
 
 </div>
 
----
-
 ## 🧑‍💻 About Me
 
-I'm a software engineering student passionate about transforming raw data into actionable insights. My journey in data analytics combines strong technical skills with a problem-solving mindset, focusing on uncovering patterns and driving data-informed decisions. Currently building expertise in exploratory data analysis, statistical modeling, and data visualization to prepare for a career as a data analyst.
+I'm a computer science student passionate about transforming raw data into actionable insights. My journey in data analytics combines strong technical skills with a problem-solving mindset, focusing on uncovering patterns and driving data-informed decisions. Currently building expertise in exploratory data analysis, statistical modeling, and data visualization to prepare for a career as a data analyst.
 
 ---
 
